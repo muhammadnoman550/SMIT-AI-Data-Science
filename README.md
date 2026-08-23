@@ -9,6 +9,7 @@ This folder contains the first assignment for the **SMIT Artificial Intelligence
 
 - **Topic:** Python Print Statements, Variables, & Data Types
 - **Student Name:** Muhammad Bashar
+                      (Noman)
 - **Roll Number:** 900173
 - **File:** `Muhammad Bashar_900173_Print_Variables_Assignment.ipynb`
 
