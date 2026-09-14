@@ -39,8 +39,8 @@
 | :--- | :--- | :--- |
 | **Assignment 01** | Basic Syntax & Print Variables | `Muhammad Bashar_900173_Print_Variables_Assignment.ipynb` |
 | **Assignment 02** | Math & Scientific Calculations | `Muhammad Bashar_900173_Mathematical_and_Scientific_Calculations.ipynb` |
-| **Assignment 03** | *Upcoming Topic* | `Muhammad Bashar_900173_Assignment_03.ipynb` |
-
+| **Assignment 03** | Python Fundamentals & Operators Assignment | `Muhammad Bashar_900173_Python Fundamentals & Operators Assignment.ipynb` |
+| **Assignment 04** | Strings Assignment | `Muhammad Bashar_900173_Strings Assignment.ipynb` |
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
