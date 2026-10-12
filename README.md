@@ -37,11 +37,15 @@
 
 | 📑 Assignment | 📌 Topic Covered | 📄 File Name |
 | :--- | :--- | :--- |
-| **Assignment 01** | Basic Syntax & Print Variables | `Muhammad Bashar_900173_Print_Variables_Assignment.ipynb` |
-| **Assignment 02** | Math & Scientific Calculations | `Muhammad Bashar_900173_Mathematical_and_Scientific_Calculations.ipynb` |
-| **Assignment 03** | Python Fundamentals & Operators Assignment | `Muhammad Bashar_900173_Python Fundamentals & Operators Assignment.ipynb` |
-| **Assignment 04** | Strings Assignment | `Muhammad Bashar_900173_Strings Assignment.ipynb` |
-| **Assignment 05** | Complete Python Data Structures Assignment Collection | `Muhammad Bashar_900173_Strings Assignment.ipynb` |
+| **Assignment 01** | Basic Syntax & Print Variables | `Muhammad Bashar_900173_Assignment.ipynb` |
+| **Assignment 02** | Math & Scientific Calculations | `Muhammad Bashar_900173_.ipynb` |
+| **Assignment 03** | Python Fundamentals & Operators Assignment | `Muhammad Bashar_900173_Assignment.ipynb` |
+| **Assignment 04** | Strings Assignment | `Muhammad Bashar_900173_Assignment.ipynb` |
+| **Assignment 05** | Complete Python Data Structures Assignment Collection | `Muhammad Bashar_900173_Assignment.ipynb` |
+| **Assignment 06** | Conditional Statement Assignment | `Muhammad Bashar_900173_Assignment.ipynb` |
+| **Assignment 07** | Conditions and Loops Assignment | `Muhammad Bashar_900173_Assignment.ipynb` |
+
+
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
